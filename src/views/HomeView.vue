@@ -60,7 +60,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="" alt="AppointmentsManager" />
+                  <img class="img-fluid rounded mb-5" src="src/assets/clinic.png" alt="AppointmentsManager" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: VueJS, ExpressJS, MongoDBAtlas, Git, JavaScript, HTML, Bootstrap</p>
                   <p class="mb-4">This assignment was to create an app to manage appointments at a clinic, using VueJS
@@ -104,7 +104,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="" alt="ComputerStoreManager" />
+                  <img class="img-fluid rounded mb-5" src="src/assets/computer.png" alt="ComputerStoreManager" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: VueJS, ExpressJS, JavaScript, HTML, Bootstrap, MySQL</p>
                   <p class="mb-4">This assignment was create an app for a computer store management system, in which
@@ -145,7 +145,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="" alt="ManaginbBooks" />
+                  <img class="img-fluid rounded mb-5" src="src/assets/book.png" alt="ManaginbBooks" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: ExpressJS, JavaScript, Bootstrap, JSON, CSS</p>
                   <p class="mb-4">This assignment was to create an app using ExpressJS for both the frontend and the
@@ -185,7 +185,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="" alt="MovieRentSystem" />
+                  <img class="img-fluid rounded mb-5" src="src/assets/movie.png" alt="MovieRentSystem" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: NodeJS, JavaScript, Bootstrap, JSON, CSS, MySQL</p>
                   <p class="mb-4">This assignment was created to manage moives, with HTML being used in the frontend and

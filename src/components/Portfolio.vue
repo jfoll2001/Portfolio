@@ -22,7 +22,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i
                                         class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="AppointmentsManager" />
+                            <img class="img-fluid" src="src/assets/clinic.png" alt="AppointmentsManager" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -33,7 +33,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i
                                         class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="ComputerStoreManager" />
+                            <img class="img-fluid" src="src/assets/computer.png" alt="ComputerStoreManager" />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -44,7 +44,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i
                                         class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="ManaginbBooks" />
+                            <img class="img-fluid" src="src/assets/book.png" alt="ManaginbBooks" />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -55,7 +55,7 @@
                                 <div class="portfolio-item-caption-content text-center text-white"><i
                                         class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="" alt="MovieRentSystem" />
+                            <img class="img-fluid" src="src/assets/movie.png" alt="MovieRentSystem" />
                         </div>
                     </div>                   
                 </div>
