@@ -1,9 +1,18 @@
-<script setup>
-import TheWelcome from '@/components/TheWelcome.vue'
+<script>
+import Navbar from '@/components/Navbar.vue'
+
+export default {
+  components: {
+    Navbar
+  }
+}
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+
+  <body id="page-top">
+    <!-- Navagation -->
+    <Navbar />
+  </body>
+
 </template>
