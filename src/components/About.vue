@@ -15,8 +15,9 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ms-auto">
-                        <p class="lead">I can write programs in C#, HTML, and JS. As well as use CSS, BootStrap, VueJS
-                            and NodeJS</p>
+                        <p class="lead">I can write programs in C#, HTML, JS, SQL, and MySQL. As well as use CSS,
+                            Bootstrap, VueJS,
+                            MongoDB, Heroku, ExpressJS and NodeJS</p>
                     </div>
                     <div class="col-lg-4 me-auto">
                         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
