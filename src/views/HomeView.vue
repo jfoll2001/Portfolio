@@ -151,7 +151,7 @@ export default {
                   <p class="mb-4">This assignment was to create an app using ExpressJS for both the frontend and the
                     backend with a JSON file managing the data, EJS was used instead of HMTL.</p>
                   <p class="mb-4">Date Uploaded: 06/15/22</p>
-                  <p class="mb-4"><a
+                  <p class="mb-4">Link to: <a
                       href="https://github.com/jfoll2001/Managing-Books-Using-Express.git">Managing-Books-Using-Express</a>
                   </p>
                   <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -191,7 +191,8 @@ export default {
                   <p class="mb-4">This assignment was created to manage moives, with HTML being used in the frontend and
                     NodeJS being used to run the server, with MySQL being used to manage the data.</p>
                   <p class="mb-4">Date Uploaded: 06/08/22</p>
-                  <p class="mb-4"><a href="https://github.com/jfoll2001/Movie-Rent-System.git">Movie-Rent-System</a></p>
+                  <p class="mb-4">Link to: <a
+                      href="https://github.com/jfoll2001/Movie-Rent-System.git">Movie-Rent-System</a></p>
                   <button class="btn btn-primary" data-bs-dismiss="modal">
                     <i class="fas fa-xmark fa-fw"></i>
                     Close Window
