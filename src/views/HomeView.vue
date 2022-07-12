@@ -60,7 +60,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="AppointmentsManager" />
+                  <img class="img-fluid rounded mb-5" src="" alt="AppointmentsManager" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: VueJS, ExpressJS, MongoDBAtlas, Git, JavaScript, HTML, Bootstrap</p>
                   <p class="mb-4">This assignment was to create an app to manage appointments at a clinic, using VueJS
@@ -145,7 +145,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="ManaginbBooks" />
+                  <img class="img-fluid rounded mb-5" src="" alt="ManaginbBooks" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: ExpressJS, JavaScript, Bootstrap, JSON, CSS</p>
                   <p class="mb-4">This assignment was to create an app using ExpressJS for both the frontend and the
@@ -185,7 +185,7 @@ export default {
                     <div class="divider-custom-line"></div>
                   </div>
                   <!-- Portfolio Modal - Image-->
-                  <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="MovieRentSystem" />
+                  <img class="img-fluid rounded mb-5" src="" alt="MovieRentSystem" />
                   <!-- Portfolio Modal - Text-->
                   <p class="mb-4">Categories: NodeJS, JavaScript, Bootstrap, JSON, CSS, MySQL</p>
                   <p class="mb-4">This assignment was created to manage moives, with HTML being used in the frontend and
